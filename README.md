@@ -64,7 +64,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
     * Created a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
-* Created a report in Microsoft Word addressing the following questions:
+* Created a report addressing the following questions:
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
